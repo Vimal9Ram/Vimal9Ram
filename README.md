@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Vimal Ram!
+# 👋 Hey, I'm Vimal Ram!
 
 ### 🧪 WELCOME TO MY 2ND ACCOUNT
 
