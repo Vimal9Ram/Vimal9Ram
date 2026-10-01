@@ -1,16 +1,20 @@
-# Hi there, I'm Vimal Ram! 👋
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
-</p>
+<div align="center">
+
+# 👋 Hi, I'm Vimal Ram!
+
+### 🧪 WELCOME TO MY 2ND ACCOUNT
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1200">
+
 <br><br>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double+Ink&weight=500&size=21&pause=701&color=29E8F7&multiline=true&width=300&height=75&lines=Welcome+to+my+2nd+Account" alt="Typing SVG">
-  </a>
-</p>
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double+Ink&weight=500&size=21&pause=701&color=29E8F7&center=true&vCenter=true&width=500&height=50&lines=Experiments+%7C+Prototypes+%7C+Scratch+Projects)](https://git.io/typing-svg)
+
+<br><br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">
+
+</div>
 
 Welcome to my secondary GitHub profile! While my main account (**@Vimal9RAM-NAP**) houses my polished portfolio, this profile serves as my personal **digital sandbox and engineering playground**.
 
